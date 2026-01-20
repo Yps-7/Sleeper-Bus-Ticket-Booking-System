@@ -3,8 +3,8 @@ import numpy as np
 
 # making mock historical data
 data = {
-  "booking_type" : ["online","online","offline","online","online","offline","online","online","online","offline"],
-  "Status" : ["Confirmed","Confirmed","Cancelled","Confirmed","Confirmed","Cancelled","Confirmed","Cancelled","Confirmed","Confirmed"]
+  "booking_type" : ["online","online","offline","online","online","offline","online","offline","online","online"],
+  "Status" : ["Confirmed","Confirmed","Cancelled","Cancelled","Confirmed","Cancelled","Confirmed","Confirmed","Cancelled","Confirmed"]
 }
 
 df = pd.DataFrame(data)
