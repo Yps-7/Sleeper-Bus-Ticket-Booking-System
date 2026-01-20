@@ -21,15 +21,15 @@ Confirmation_percentage = (
 new_booking_type = "online"
 probability = round(Confirmation_percentage.get(new_booking_type, 0),2)
 
-# rule based decision
+# rule based pridiction
 if probability >= 70:
-    Decision = "high chance of Confirmation"
+    Prediction = "high chance of Confirmation"
 elif 40<= probability <70:
-    Decision = "medium chance of Confirmation"
+    Prediction = "medium chance of Confirmation"
 else:
-    Decision = "low chance of Confirmation"
+    Prediction = "low chance of Confirmation"
 
 # here printing the OUTPUT
 print(f"Booking_type: {new_booking_type}")
 print(f"confirmation Probability: {probability}%")
-print("Decision:", Decision)
+print("Prediction:", Prediction)
