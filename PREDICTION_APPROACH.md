@@ -20,6 +20,9 @@ Mathematically:
 mean(confirmed_flag) × 100
 = (Total Confirmed Bookings / Total Bookings) × 100
 
+I have provide this Mock prediction model python file as "Prediction.py".
+[Prediction.py]
+
 ---
 ## 2. Model Choice
 This solution uses a **mock, rule-based Probability model** instead of a machine learning model. This approach mimics how a real ML model behaves but without model training.
