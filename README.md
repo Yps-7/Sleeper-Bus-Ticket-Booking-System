@@ -36,7 +36,7 @@ Web-based booking flow for sleeper bus service Ahmedabad ↔ Mumbai with integra
 ---
 ## Quality Assurance Documentation
 Here is some Product QA test cases scenarios.
-----
+
 ### Functional Test Cases
 
 | Test Case ID | Scenario | Expected Result |
@@ -73,7 +73,12 @@ Here is some Product QA test cases scenarios.
 
 ----
 ## UI/UX Design Prototype
-Design Prototype Link - []
+The UI prototype for the booking flow has been designed using **Figma**.
+It visually represents the complete user journey from service selection
+to booking confirmation.
+
+🔗 **Figma Prototype Link:**  
+https://www.figma.com/file/XXXXXXXX
 
 ----
 ## Conclusion
