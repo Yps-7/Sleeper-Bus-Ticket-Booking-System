@@ -91,7 +91,6 @@ The backend is developed using **Python and FastAPI**, focusing on clean API des
 
 | Method | Endpoint | Description |
 |------|--------|------------|
-| GET | `/` | check API endpoint |
 | GET | `/stations` | List all stations on the route |
 | GET | `/seats` | List available seats for a given route |
 | POST | `/book_seat` | Book a sleeper seat |
