@@ -71,7 +71,7 @@ Here is some Product QA test cases scenarios.
 | UI-03 | Mobile responsiveness | Layout adapts correctly |
 | UI-04 | Loading indicators | Displayed during processing |
 
-----
+-----
 ## UI/UX Design Prototype
 The UI/UX prototype for the ticket booking flow has been designed using **Figma**.
 It visually represents the complete user journey from service selection
@@ -80,7 +80,25 @@ to booking confirmation.
 🔗 **Figma Prototype Link:**  
 https://www.figma.com/file/XXXXXXXX
 
-----
+-----
+# Sleeper Bus Ticket Booking – Backend API
+
+This repository contains the backend implementation for a **sleeper bus ticket booking system** operating between **Ahmedabad and Mumbai** .
+
+The backend is developed using **Python and FastAPI**, focusing on clean API design and clarity.
+
+## 🔗 API Endpoints
+
+| Method | Endpoint | Description |
+|------|--------|------------|
+| GET | `/` | check API endpoint |
+| GET | `/stations` | List all stations on the route |
+| GET | `/seats` | List available seats for a given route |
+| POST | `/book_seat` | Book a sleeper seat |
+| POST | `/book_meal` | Add a meal to an existing booking |
+| POST | `/cancel_booking` | Cancel a confirmed booking |
+
+-----
 ## Conclusion
 
 This documentation ensures a well-defined product flow supported by
