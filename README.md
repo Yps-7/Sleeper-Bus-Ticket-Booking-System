@@ -81,13 +81,13 @@ to booking confirmation.
 https://www.figma.com/file/XXXXXXXX
 
 -----
-# Sleeper Bus Ticket Booking – Backend API
+## Sleeper Bus Ticket Booking – Backend API
 
 This repository contains the backend implementation for a **sleeper bus ticket booking system** operating between **Ahmedabad and Mumbai** .
 
 The backend is developed using **Python and FastAPI**, focusing on clean API design and clarity.
 
-## 🔗 API Endpoints
+### 🔗 API Endpoints
 
 | Method | Endpoint | Description |
 |------|--------|------------|
