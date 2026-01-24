@@ -78,7 +78,7 @@ It visually represents the complete user journey from service selection
 to booking confirmation.
 
 🔗 **Figma Prototype Link:**  
-https://www.figma.com/file/XXXXXXXX
+https://www.figma.com/make/qWfFEYqUtZYREpMqiQGG9v/Sleeper-Bus-Booking-App?p=f&t=3DIkPWqlxPAZyYAQ-0&fullscreen=1
 
 -----
 ## Sleeper Bus Ticket Booking – Backend API
