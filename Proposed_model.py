@@ -36,4 +36,6 @@ new_booking = pd.DataFrame([{
 }])
 
 prediction_probability = model.predict_proba(new_booking)[0][1]
+
+print("Model Accuracy:", round(accuracy*100, 2), "%")
 print("\nBooking Confirmation Probability:", round(prediction_probability * 100, 2), "%")
