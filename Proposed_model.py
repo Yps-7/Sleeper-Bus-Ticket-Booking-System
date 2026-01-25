@@ -1,3 +1,4 @@
+# THIS PROPOSED MODEL IS FOR YOUR CONSIDERATION FOR PROPOSED MODEL LOGIC.
 # HERE WE GO for making Bus Booking Confirmation prediction model(prposed model) BY USING RANDOM FOREST CLASSIFIER
 import pandas as pd
 import numpy as np
