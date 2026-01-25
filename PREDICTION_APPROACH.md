@@ -2,7 +2,7 @@
 ---
 
 ## Overview
-This Document is describes a percentage based approach to predict bus ticket confirmation probability using mock historical booking data. This approach focuses on simplicity , explainability of problem solving.
+This Document is describes a Historical data based Statistical approach to predict bus ticket confirmation probability using mock historical booking data. This approach focuses on simplicity, explainability of problem solving.
 
 ---
 ## 1. Prediction Logic
@@ -24,7 +24,7 @@ I have provide this Mock prediction model python file as "[Prediction.py](Predic
 
 ---
 ## 2. Model Choice
-This solution uses a **mock, **Historical data based statistical model** and for prediction, it uses rule-based Probability model** instead of a machine learning model. This approach mimics how a real ML model behaves but without model training.
+This solution uses a mock, **Historical data based statistical model** and for prediction, it uses **rule-based Probability model** instead of a machine learning model. This approach mimics how a real ML model behaves but without model training.
 
 ### Proposed Model -- RandomForestClassifier
 here is the proposed model python file link for your consideration. [Proposed_model.py](Proposed_model.py) 
