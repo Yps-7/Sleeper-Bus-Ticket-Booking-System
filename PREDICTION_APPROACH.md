@@ -1,5 +1,4 @@
 # 🎫 Bus Ticket Confirmation Prediction - Mock or simulated model 
----
 
 ## Overview
 This Document is describes a Historical data based Statistical approach to predict bus ticket confirmation probability using mock historical booking data. This approach focuses on simplicity, explainability of problem solving.
