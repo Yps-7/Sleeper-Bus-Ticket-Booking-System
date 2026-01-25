@@ -27,6 +27,7 @@ I have provide this Mock prediction model python file as "[Prediction.py](Predic
 This solution uses a **mock, rule-based Probability model** instead of a machine learning model. This approach mimics how a real ML model behaves but without model training.
 
 ### Proposed Model -- RandomForestClassifier
+here is the proposed model python file link for your consideration. [Proposed_model.py](Proposed_model.py) 
 
 ---
 ## 4. Mock Dataset
