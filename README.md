@@ -73,7 +73,7 @@ Here is some Product QA test cases scenarios.
 
 -----
 ## UI/UX Design Prototype
-The UI/UX prototype for the ticket booking flow has been designed using **Figma**.
+The UI/UX prototype for the ticket booking flow has been designed using **Figma make**.
 It visually represents the complete user journey from service selection
 to booking confirmation.
 
