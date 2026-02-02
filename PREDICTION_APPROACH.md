@@ -26,7 +26,9 @@ I have provide this Mock prediction model python file as "[Prediction.py](Predic
 This solution uses a mock, **Historical data based statistical model** and for prediction, it uses **rule-based Probability model** instead of a machine learning model. This approach mimics how a real ML model behaves but without model training.
 
 ### Proposed Model -- RandomForestClassifier
-here is the proposed model python file link for your consideration. [Proposed_model.py](Proposed_model.py) 
+here is the proposed model python file link for your consideration- [Proposed_model.py](Proposed_model.py) .
+
+The reason for using this particular model is that Random Forest is an ensemble machine learning method which reduces variance and helps prevent underfitting. As a result, the model is no more likely to be noisy or perform poorly on testing data.   
 
 ---
 ## 4. Mock Dataset
